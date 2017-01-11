@@ -1,0 +1,10 @@
+C:\Users\pshelara\Source\Repos\OutlookPOC\OutlookPOC\bin\Debug\OutlookPOC.exe.config
+C:\Users\pshelara\Source\Repos\OutlookPOC\OutlookPOC\bin\Debug\OutlookPOC.exe
+C:\Users\pshelara\Source\Repos\OutlookPOC\OutlookPOC\bin\Debug\OutlookPOC.pdb
+C:\Users\pshelara\Source\Repos\OutlookPOC\OutlookPOC\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\pshelara\Source\Repos\OutlookPOC\OutlookPOC\bin\Debug\office.dll
+C:\Users\pshelara\Source\Repos\OutlookPOC\OutlookPOC\obj\Debug\OutlookPOC.Form1.resources
+C:\Users\pshelara\Source\Repos\OutlookPOC\OutlookPOC\obj\Debug\OutlookPOC.Properties.Resources.resources
+C:\Users\pshelara\Source\Repos\OutlookPOC\OutlookPOC\obj\Debug\OutlookPOC.csproj.GenerateResource.Cache
+C:\Users\pshelara\Source\Repos\OutlookPOC\OutlookPOC\obj\Debug\OutlookPOC.exe
+C:\Users\pshelara\Source\Repos\OutlookPOC\OutlookPOC\obj\Debug\OutlookPOC.pdb
